@@ -6,12 +6,15 @@ This project is a custom shell implementation that includes support for built-in
 ## Project Structure
 The project follows a structured organization:
 ```
-/project-root
+Basic-Shell/
+│
 │── gtest/
-│   ├── shell_test.cpp       
+│   ├── shell_test.cpp
+│  
 │── include/
 │   ├── msgs.h               
-│   ├── shell.h              
+│   ├── shell.h
+│         
 │── src/                     
 │── shell.c
 │              
