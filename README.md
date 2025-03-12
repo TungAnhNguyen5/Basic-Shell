@@ -1,4 +1,4 @@
-# Custom Shell Implementation
+# Basic Shell
 
 ## Overview
 This project is a custom shell implementation that includes support for built-in commands, command history, and signal handling. The shell provides essential functionality while ensuring proper error handling and user-friendly behavior.
